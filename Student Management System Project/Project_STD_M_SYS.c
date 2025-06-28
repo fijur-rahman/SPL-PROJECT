@@ -85,7 +85,7 @@ int main()
 
 void loadFromFile() 
 {
-    FILE *fp = fopen("E:\\UIU Study Material\\SPL Lab 1112\\Project\\file\\Student.txt", "r");
+    FILE *fp = fopen("E:\\Project\\file\\Student.txt", "r");
     if (fp == NULL) return;
 
     while (!feof(fp)) 
@@ -104,7 +104,7 @@ void loadFromFile()
 
 void saveToFile() 
 {
-    FILE *fp = fopen("E:\\UIU Study Material\\SPL Lab 1112\\Project\\file\\Student.txt", "w");
+    FILE *fp = fopen("E:\\Project\\file\\Student.txt", "w");
     for (int i = 0; i < count; i++) 
     {
         fprintf(fp, "Student Name: %s\nID: %s\nCGPA: %.2f\nDepartment: %s\nTrimester: %d\n",
