@@ -1,0 +1,25 @@
+Student Name: MD FIJUR RAHMAN
+ID: 0112430039
+CGPA: 3.70
+Department: CSE
+Trimester: 3
+Student Name: Talha Bin Salauddin
+ID: 0112430049
+CGPA: 3.60
+Department: CSE
+Trimester: 3
+Student Name: Israt Jaha Sadia
+ID: 011240201
+CGPA: 3.55
+Department: CSE
+Trimester: 3
+Student Name: Siam
+ID: 001
+CGPA: 3.80
+Department: EEE
+Trimester: 4
+Student Name: Tahia
+ID: 101
+CGPA: 3.30
+Department: Aeronautical
+Trimester: 4
