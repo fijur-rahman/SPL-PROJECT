@@ -104,7 +104,7 @@ void loadFromFile()
 
 void saveToFile() 
 {
-    FILE *fp = fopen("E:\\Project\\file\\Student.txt", "w");
+    FILE *fp = fopen("E:\\Project\\file\\Student.txt", "a");
     for (int i = 0; i < count; i++) 
     {
         fprintf(fp, "Student Name: %s\nID: %s\nCGPA: %.2f\nDepartment: %s\nTrimester: %d\n",
